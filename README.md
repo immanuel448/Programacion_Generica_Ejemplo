@@ -1,7 +1,7 @@
 <!-- para los títulos -->
 # EJERCICIO: PROGRAMACIÓN GENÉRICA
 
-
+s
 **Para este ejercicio en C# .NET, se hace uso de la programación genérica, para esto se:**
 
 * Crea una clase genérica, con una lista genérica, esta lista será llenada con:
