@@ -9,7 +9,7 @@
     * Enteros y
     * Objetos de una segunda clase (Jugadores)
 
-*Finalmente se refactoriza el código para llenar y mostrar las instancias de la lista mediante métodos
+* Finalmente se refactoriza el código para llenar y mostrar las instancias de la lista mediante métodos
 ***
 ### En el siguiente enlace se muestra la realización de este código:
 
