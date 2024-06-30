@@ -28,18 +28,13 @@ namespace GenericosEjemplo
             RellenarLista(listaObjJugadores, new Jugadores("Messi", 37), new Jugadores("Ronaldo", 39), new Jugadores("Zlatan", 42), new Jugadores("Ozil", 35));
             MostrarLista(listaObjJugadores, "OBJETO JUGADORES");
 
-            Nada();
+            Serializacion();
             //evita que la consola se cierre
             Console.ReadKey();
         }
 
-        private static void Serie()
-        {
-
-        }
-
         //refactorizando código         refactorizando código
-        private static void RellenarLista<T>(Lista<T> listaGenerica, params T [] elementos)
+        private static void RellenarLista<T>(Lista<T> listaGenerica, params T[] elementos)
         {
             //método común para rellenar objetos de la clase Lista
             foreach (var elemento in elementos)
@@ -55,7 +50,8 @@ namespace GenericosEjemplo
             Console.WriteLine($"\n@@@{textoGenerico}: {miCadena}");
         }
 
-        private static void Nada()
+        //segundo ejercicio
+        private static void Serializacion()
         {
             var miJugador = new Jugadores("Messi", 37);
             string miString = JsonSerializer.Serialize(miJugador);
