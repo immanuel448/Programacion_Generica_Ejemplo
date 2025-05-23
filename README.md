@@ -13,9 +13,5 @@
 ***
 ### En el siguiente enlace se muestra la realización de este código:
 
-[Ver vídeo en YouTube](https://www.youtube.com/watch?v=e_Cl57sIMBk&t=19s&ab_channel=luceroemmanueling "Tiempo real de la escritura del código")
-
-
-
-
+[![Demo del proyecto](https://img.youtube.com/vi/e_Cl57sIMBk/hqdefault.jpg)](https://www.youtube.com/watch?v=e_Cl57sIMBk&t=19s "Tiempo real de la escritura del código")
 
