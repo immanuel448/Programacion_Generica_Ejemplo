@@ -1,17 +1,20 @@
-<!-- para los títulos -->
-# EJERCICIO: PROGRAMACIÓN GENÉRICA
+# 🧪 Ejercicio: Programación Genérica en C# .NET
 
+### Descripción
 
-### Para este ejercicio en C# .NET, se hace uso de la programación genérica, para esto se:
+Este ejercicio demuestra el uso de **programación genérica** en C# con .NET. Se realizan los siguientes pasos:
 
-* Crea una clase genérica, con una lista genérica, esta lista será llenada con:
-    * Strings
-    * Enteros y
-    * Objetos de una segunda clase (Jugadores)
+- ✅ Se crea una **clase genérica** que contiene una **lista genérica**.
+- 📥 La lista se llena con diferentes tipos de datos:
+  - Cadenas de texto (`string`)
+  - Números enteros (`int`)
+  - Objetos de una clase personalizada llamada `Jugador`
+- 🔁 Se **refactoriza** el código para manejar el llenado y la visualización de la lista mediante métodos genéricos reutilizables.
 
-* Finalmente se refactoriza el código para llenar y mostrar las instancias de la lista mediante métodos
-***
-### En el siguiente enlace se muestra la realización de este código:
+---
+
+### 🎥 Demostración en video
+
+Haz clic en la imagen para ver el proceso de codificación en tiempo real:
 
 [![Demo del proyecto](https://img.youtube.com/vi/e_Cl57sIMBk/hqdefault.jpg)](https://www.youtube.com/watch?v=e_Cl57sIMBk&t=19s "Tiempo real de la escritura del código")
-
